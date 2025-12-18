@@ -4,8 +4,8 @@
 
 ### Pavel ｢ pa1ar ｣ Larionov 
 
-Research & Developer orchestrating inception of digital constructs.
-Currently specializing on building of pipelines and tools, utilizing advanced genAI.
+Researcher & Developer.
+Currently specializing on building of automated pipelines and tools, utilizing advanced genAI.
 
 `automation` `genAI` `healthtech`
 
