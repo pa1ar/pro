@@ -5,7 +5,7 @@
 ### Pavel ｢ pa1ar ｣ Larionov 
 
 Researcher & Developer.  
-Currently specializing in building automated pipelines and tools using advanced GenAI.
+Building automated pipelines and tools using advanced AI workflows.
 
 `automation` `genAI` `healthtech`
 
